@@ -1,0 +1,1 @@
+# TerraformCode-for-lookup-condtions                
